@@ -1,0 +1,2 @@
+Factorial of a number is the product of all the numbers lying between that number and 1 (including that number).
+Try to write a program that can calculate the factorial of a number.
