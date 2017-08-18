@@ -1,0 +1,1 @@
+Write a program to find the number of trailing zeroes in the factorial of a number.
