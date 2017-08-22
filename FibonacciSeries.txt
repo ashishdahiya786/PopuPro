@@ -1,0 +1,5 @@
+Fibonacci Series is the series of numbers in which every nth element of the series is equal to 
+the sum of previous two numbers in the series. (n>2).
+i.e. 0 1 1 2 3 5 8 13 21 ...
+Try to write a program which prints fibonacci series.
+Length of the series upto which it is to be printed will be provided by user.
